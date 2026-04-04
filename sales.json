@@ -1,0 +1,1412 @@
+{
+  "date_range": "Itemwise Sales Report",
+  "restaurant": "Between 09-Feb-2016 And 10-Feb-2016",
+  "total_sales": 291850.39,
+  "categories": [
+    {
+      "category_name": "Food",
+      "total_category_sales": 76355.39,
+      "items": [
+        {
+          "product_name": "Boiled Peanut Masala",
+          "quantity": 31.0,
+          "unit_price": 90.0,
+          "total_price": 2790.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Bar Tit Bits"
+        },
+        {
+          "product_name": "Chana Jor Garam",
+          "quantity": 2.0,
+          "unit_price": 90.0,
+          "total_price": 180.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Bar Tit Bits"
+        },
+        {
+          "product_name": "Crispy Chilli Corn",
+          "quantity": 23.0,
+          "unit_price": 100.0,
+          "total_price": 2300.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Bar Tit Bits"
+        },
+        {
+          "product_name": "Fried Peanut Masala",
+          "quantity": 8.0,
+          "unit_price": 90.0,
+          "total_price": 720.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Bar Tit Bits"
+        },
+        {
+          "product_name": "Masala Papad",
+          "quantity": 10.0,
+          "unit_price": 75.0,
+          "total_price": 750.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Bar Tit Bits"
+        },
+        {
+          "product_name": "Plain Boiled Peanuts",
+          "quantity": 2.0,
+          "unit_price": 90.0,
+          "total_price": 180.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Bar Tit Bits"
+        },
+        {
+          "product_name": "Sundal",
+          "quantity": 9.0,
+          "unit_price": 90.0,
+          "total_price": 810.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Bar Tit Bits"
+        },
+        {
+          "product_name": "Apple Short Cake",
+          "quantity": 1.0,
+          "unit_price": 150.0,
+          "total_price": 150.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Desserts"
+        },
+        {
+          "product_name": "Brownie With Hot Chocolate Sauce",
+          "quantity": 5.0,
+          "unit_price": 150.0,
+          "total_price": 750.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Desserts"
+        },
+        {
+          "product_name": "ICE CREAM  WITH CHOCOLET SOUCE",
+          "quantity": 1.0,
+          "unit_price": 120.0,
+          "total_price": 120.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Desserts"
+        },
+        {
+          "product_name": "Sticky Date Pudding Served With Toffee S",
+          "quantity": 1.0,
+          "unit_price": 150.0,
+          "total_price": 150.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Desserts"
+        },
+        {
+          "product_name": "Butter Naan",
+          "quantity": 2.0,
+          "unit_price": 40.0,
+          "total_price": 80.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Indian Breads"
+        },
+        {
+          "product_name": "Garlic Naan",
+          "quantity": 1.0,
+          "unit_price": 50.0,
+          "total_price": 50.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Indian Breads"
+        },
+        {
+          "product_name": "Naan",
+          "quantity": 2.0,
+          "unit_price": 35.0,
+          "total_price": 70.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Indian Breads"
+        },
+        {
+          "product_name": "Tandoori Roti",
+          "quantity": 10.0,
+          "unit_price": 30.0,
+          "total_price": 300.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Indian Breads"
+        },
+        {
+          "product_name": "Beef Fry",
+          "quantity": 7.0,
+          "unit_price": 275.0,
+          "total_price": 1925.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Beef Xacuti",
+          "quantity": 2.0,
+          "unit_price": 300.0,
+          "total_price": 600.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Calamari",
+          "quantity": 2.0,
+          "unit_price": 300.0,
+          "total_price": 600.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Chilli Beef",
+          "quantity": 14.0,
+          "unit_price": 300.0,
+          "total_price": 4200.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Chilli Chicken",
+          "quantity": 19.0,
+          "unit_price": 225.0,
+          "total_price": 4275.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Chilli Pork",
+          "quantity": 7.0,
+          "unit_price": 300.0,
+          "total_price": 2100.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Chilli Prawns",
+          "quantity": 1.0,
+          "unit_price": 300.0,
+          "total_price": 300.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Chilly Chicken",
+          "quantity": 1.0,
+          "unit_price": 195.0,
+          "total_price": 195.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Chilly Fish",
+          "quantity": 1.0,
+          "unit_price": 250.0,
+          "total_price": 250.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Greek Meat Balls",
+          "quantity": 1.0,
+          "unit_price": 275.0,
+          "total_price": 275.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Kalmi Kebab With Bone",
+          "quantity": 1.0,
+          "unit_price": 225.0,
+          "total_price": 225.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Karwari Prawns",
+          "quantity": 5.0,
+          "unit_price": 300.0,
+          "total_price": 1500.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Kodi Karepak Vepudu",
+          "quantity": 17.0,
+          "unit_price": 225.0,
+          "total_price": 3825.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Lasooni Fish",
+          "quantity": 2.0,
+          "unit_price": 275.0,
+          "total_price": 550.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Mutton Chops",
+          "quantity": 1.0,
+          "unit_price": 325.0,
+          "total_price": 325.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Pepper Mutton Fry",
+          "quantity": 4.0,
+          "unit_price": 225.0,
+          "total_price": 900.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Pesto Besto",
+          "quantity": 7.0,
+          "unit_price": 250.0,
+          "total_price": 1750.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Podimmas",
+          "quantity": 5.0,
+          "unit_price": 175.0,
+          "total_price": 875.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Pork Pepper Fry",
+          "quantity": 1.0,
+          "unit_price": 275.0,
+          "total_price": 275.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Royalla Vepudu",
+          "quantity": 1.0,
+          "unit_price": 300.0,
+          "total_price": 300.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Sheek Kebab",
+          "quantity": 2.0,
+          "unit_price": 300.0,
+          "total_price": 600.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Sticky Chili Pork Ribs",
+          "quantity": 3.0,
+          "unit_price": 325.0,
+          "total_price": 975.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Tandoori Jhinga",
+          "quantity": 1.0,
+          "unit_price": 300.0,
+          "total_price": 300.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Watson’s Kebabs",
+          "quantity": 18.0,
+          "unit_price": 250.0,
+          "total_price": 4500.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Watson’s Wings Full",
+          "quantity": 10.0,
+          "unit_price": 285.0,
+          "total_price": 2850.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Watson’s Wings Half",
+          "quantity": 8.0,
+          "unit_price": 175.0,
+          "total_price": 1400.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Appetizers"
+        },
+        {
+          "product_name": "Chicken Tikka Kati Roll",
+          "quantity": 3.0,
+          "unit_price": 150.0,
+          "total_price": 450.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Kati Rolls"
+        },
+        {
+          "product_name": "Podimas Kati Roll",
+          "quantity": 2.0,
+          "unit_price": 120.0,
+          "total_price": 240.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Kati Rolls"
+        },
+        {
+          "product_name": "Pork Pepper Fry Kati Roll",
+          "quantity": 2.0,
+          "unit_price": 175.0,
+          "total_price": 350.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Kati Rolls"
+        },
+        {
+          "product_name": "Chicken Biriyani",
+          "quantity": 5.0,
+          "unit_price": 200.0,
+          "total_price": 1000.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Main Course"
+        },
+        {
+          "product_name": "Chicken Ghee Roast",
+          "quantity": 4.0,
+          "unit_price": 250.0,
+          "total_price": 1000.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Main Course"
+        },
+        {
+          "product_name": "Chicken Korma",
+          "quantity": 3.0,
+          "unit_price": 250.0,
+          "total_price": 750.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Main Course"
+        },
+        {
+          "product_name": "Crab Curry",
+          "quantity": 1.0,
+          "unit_price": 375.0,
+          "total_price": 375.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Main Course"
+        },
+        {
+          "product_name": "Fish & Chips",
+          "quantity": 2.0,
+          "unit_price": 325.0,
+          "total_price": 650.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Main Course"
+        },
+        {
+          "product_name": "Goan Fish Curry",
+          "quantity": 2.0,
+          "unit_price": 325.0,
+          "total_price": 650.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Main Course"
+        },
+        {
+          "product_name": "Grilled Chicken With Mushroom Sauce",
+          "quantity": 2.0,
+          "unit_price": 300.0,
+          "total_price": 600.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Main Course"
+        },
+        {
+          "product_name": "Mutton Kheema Masala",
+          "quantity": 1.0,
+          "unit_price": 300.0,
+          "total_price": 300.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Main Course"
+        },
+        {
+          "product_name": "Mutton Roganjosh",
+          "quantity": 1.0,
+          "unit_price": 325.0,
+          "total_price": 325.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Main Course"
+        },
+        {
+          "product_name": "Fatboyz Classic",
+          "quantity": 6.0,
+          "unit_price": 205.0,
+          "total_price": 1230.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Pizza"
+        },
+        {
+          "product_name": "Hot Amigo",
+          "quantity": 4.0,
+          "unit_price": 205.0,
+          "total_price": 820.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Pizza"
+        },
+        {
+          "product_name": "Indiana",
+          "quantity": 9.0,
+          "unit_price": 205.0,
+          "total_price": 1845.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Pizza"
+        },
+        {
+          "product_name": "Shanghai",
+          "quantity": 2.0,
+          "unit_price": 205.0,
+          "total_price": 410.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Veg Pizza"
+        },
+        {
+          "product_name": "Chicken Caesar Salad",
+          "quantity": 2.0,
+          "unit_price": 175.0,
+          "total_price": 350.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Salads"
+        },
+        {
+          "product_name": "Cucumber Green Chutney Salad",
+          "quantity": 1.0,
+          "unit_price": 90.0,
+          "total_price": 90.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Salads"
+        },
+        {
+          "product_name": "Graden Fresh Green Salad",
+          "quantity": 2.0,
+          "unit_price": 90.0,
+          "total_price": 180.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Salads"
+        },
+        {
+          "product_name": "Thai Green Papaya Salad",
+          "quantity": 3.0,
+          "unit_price": 125.0,
+          "total_price": 375.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Salads"
+        },
+        {
+          "product_name": "Chilli Sauce",
+          "quantity": 2.0,
+          "unit_price": 0.01,
+          "total_price": 0.02,
+          "date": "Itemwise Sales Report",
+          "menu": "Sauce / Dips"
+        },
+        {
+          "product_name": "Mayonaisse",
+          "quantity": 36.0,
+          "unit_price": 0.01,
+          "total_price": 0.36,
+          "date": "Itemwise Sales Report",
+          "menu": "Sauce / Dips"
+        },
+        {
+          "product_name": "Mint Chutney",
+          "quantity": 1.0,
+          "unit_price": 0.01,
+          "total_price": 0.01,
+          "date": "Itemwise Sales Report",
+          "menu": "Sauce / Dips"
+        },
+        {
+          "product_name": "Babycorn",
+          "quantity": 2.0,
+          "unit_price": 175.0,
+          "total_price": 350.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Cheese Cigars",
+          "quantity": 5.0,
+          "unit_price": 150.0,
+          "total_price": 750.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Chilli Paneer",
+          "quantity": 2.0,
+          "unit_price": 190.0,
+          "total_price": 380.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Confused Watson Veg",
+          "quantity": 2.0,
+          "unit_price": 225.0,
+          "total_price": 450.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Crispy Chilli Potatoes",
+          "quantity": 8.0,
+          "unit_price": 100.0,
+          "total_price": 800.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Goan Mushroom Chili Fry",
+          "quantity": 1.0,
+          "unit_price": 175.0,
+          "total_price": 175.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Gobi",
+          "quantity": 1.0,
+          "unit_price": 175.0,
+          "total_price": 175.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Mini Chili Cheese Toast",
+          "quantity": 17.0,
+          "unit_price": 150.0,
+          "total_price": 2550.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Mogo",
+          "quantity": 4.0,
+          "unit_price": 150.0,
+          "total_price": 600.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Mushroom",
+          "quantity": 2.0,
+          "unit_price": 175.0,
+          "total_price": 350.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Paneer Tikka",
+          "quantity": 10.0,
+          "unit_price": 190.0,
+          "total_price": 1900.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Potatoes",
+          "quantity": 43.0,
+          "unit_price": 125.0,
+          "total_price": 5375.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Tandoori Mushroom",
+          "quantity": 1.0,
+          "unit_price": 175.0,
+          "total_price": 175.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Veg Fried Wantons",
+          "quantity": 2.0,
+          "unit_price": 175.0,
+          "total_price": 350.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Vegetable Shammi Kebab",
+          "quantity": 1.0,
+          "unit_price": 175.0,
+          "total_price": 175.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Appetizers"
+        },
+        {
+          "product_name": "Veg Kati Roll",
+          "quantity": 1.0,
+          "unit_price": 100.0,
+          "total_price": 100.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Kati Rolls"
+        },
+        {
+          "product_name": "Mix Veg Ghee Roast",
+          "quantity": 1.0,
+          "unit_price": 200.0,
+          "total_price": 200.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Main Course"
+        },
+        {
+          "product_name": "Palak Paneer",
+          "quantity": 1.0,
+          "unit_price": 200.0,
+          "total_price": 200.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Main Course"
+        },
+        {
+          "product_name": "Pundi Palya",
+          "quantity": 1.0,
+          "unit_price": 175.0,
+          "total_price": 175.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Main Course"
+        },
+        {
+          "product_name": "Watson’s Veg Meal",
+          "quantity": 1.0,
+          "unit_price": 250.0,
+          "total_price": 250.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Main Course"
+        },
+        {
+          "product_name": "Watsons Dal",
+          "quantity": 2.0,
+          "unit_price": 175.0,
+          "total_price": 350.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Main Course"
+        },
+        {
+          "product_name": "Classic Margharita",
+          "quantity": 6.0,
+          "unit_price": 175.0,
+          "total_price": 1050.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Pizza"
+        },
+        {
+          "product_name": "Veggie Supreme",
+          "quantity": 10.0,
+          "unit_price": 175.0,
+          "total_price": 1750.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Pizza"
+        },
+        {
+          "product_name": "Paneer Sub",
+          "quantity": 2.0,
+          "unit_price": 145.0,
+          "total_price": 290.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Subs"
+        },
+        {
+          "product_name": "Spinach Classic",
+          "quantity": 1.0,
+          "unit_price": 175.0,
+          "total_price": 175.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Veg Subs"
+        }
+      ],
+      "warnings": [
+        "'Chilli Sauce' (menu: 'Sauce / Dips') has a very low unit_price of 0.0100 — likely a complimentary or internal tracking entry, not real revenue.",
+        "'Mayonaisse' (menu: 'Sauce / Dips') has a very low unit_price of 0.0100 — likely a complimentary or internal tracking entry, not real revenue.",
+        "'Mint Chutney' (menu: 'Sauce / Dips') has a very low unit_price of 0.0100 — likely a complimentary or internal tracking entry, not real revenue."
+      ]
+    },
+    {
+      "category_name": "Liquor",
+      "total_category_sales": 197915.0,
+      "items": [
+        {
+          "product_name": "Bira White",
+          "quantity": 7.0,
+          "unit_price": 225.0,
+          "total_price": 1575.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Breezer Cranberry",
+          "quantity": 5.0,
+          "unit_price": 150.0,
+          "total_price": 750.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Breezer Orange",
+          "quantity": 2.0,
+          "unit_price": 150.0,
+          "total_price": 300.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Breezer Pasion Fruit",
+          "quantity": 2.0,
+          "unit_price": 150.0,
+          "total_price": 300.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Draught Mug Foster",
+          "quantity": 9.0,
+          "unit_price": 110.0,
+          "total_price": 990.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Draught Mug Kingfisher",
+          "quantity": 105.0,
+          "unit_price": 110.0,
+          "total_price": 11550.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Hogarden",
+          "quantity": 1.0,
+          "unit_price": 300.0,
+          "total_price": 300.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Kingfisher Premium",
+          "quantity": 37.0,
+          "unit_price": 125.0,
+          "total_price": 4625.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Kingfisher Ultra",
+          "quantity": 13.0,
+          "unit_price": 150.0,
+          "total_price": 1950.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Kingfisher Ultra Max",
+          "quantity": 1.0,
+          "unit_price": 200.0,
+          "total_price": 200.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "LODON PRIDE",
+          "quantity": 9.0,
+          "unit_price": 400.0,
+          "total_price": 3600.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Miller High Life",
+          "quantity": 12.0,
+          "unit_price": 150.0,
+          "total_price": 1800.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Peroni",
+          "quantity": 17.0,
+          "unit_price": 250.0,
+          "total_price": 4250.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Pitcher Foster",
+          "quantity": 56.0,
+          "unit_price": 375.0,
+          "total_price": 21000.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Pitcher Kingfisher",
+          "quantity": 142.0,
+          "unit_price": 350.0,
+          "total_price": 49700.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "VIRA",
+          "quantity": 3.0,
+          "unit_price": 400.0,
+          "total_price": 1200.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer & Breezers"
+        },
+        {
+          "product_name": "Shandy",
+          "quantity": 2.0,
+          "unit_price": 120.0,
+          "total_price": 240.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Beer Cocktails"
+        },
+        {
+          "product_name": "Jack Daniels Old No.7 30ml",
+          "quantity": 12.0,
+          "unit_price": 350.0,
+          "total_price": 4200.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Bourbon & Tennesse"
+        },
+        {
+          "product_name": "Breezer Woo Hoo",
+          "quantity": 1.0,
+          "unit_price": 225.0,
+          "total_price": 225.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Breezer Cocktails"
+        },
+        {
+          "product_name": "Caiporska - Classic",
+          "quantity": 3.0,
+          "unit_price": 250.0,
+          "total_price": 750.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Classics"
+        },
+        {
+          "product_name": "Cosmopolitan",
+          "quantity": 2.0,
+          "unit_price": 300.0,
+          "total_price": 600.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Classics"
+        },
+        {
+          "product_name": "Hot Toddy",
+          "quantity": 4.0,
+          "unit_price": 280.0,
+          "total_price": 1120.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Classics"
+        },
+        {
+          "product_name": "JAMESION OFFER",
+          "quantity": 12.0,
+          "unit_price": 450.0,
+          "total_price": 5400.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Classics"
+        },
+        {
+          "product_name": "Liit",
+          "quantity": 8.0,
+          "unit_price": 400.0,
+          "total_price": 3200.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Classics"
+        },
+        {
+          "product_name": "Mojito",
+          "quantity": 11.0,
+          "unit_price": 280.0,
+          "total_price": 3080.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Classics"
+        },
+        {
+          "product_name": "Whisky Sour",
+          "quantity": 4.0,
+          "unit_price": 280.0,
+          "total_price": 1120.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Classics"
+        },
+        {
+          "product_name": "Hennesy  Vs 30ml",
+          "quantity": 4.0,
+          "unit_price": 350.0,
+          "total_price": 1400.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Cognac / Brandy"
+        },
+        {
+          "product_name": "Mansion House 30ml",
+          "quantity": 26.0,
+          "unit_price": 135.0,
+          "total_price": 3510.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Cognac / Brandy"
+        },
+        {
+          "product_name": "Jw Black Label 30ml",
+          "quantity": 12.0,
+          "unit_price": 350.0,
+          "total_price": 4200.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Delux Scotch"
+        },
+        {
+          "product_name": "Blue Ribond 30ml",
+          "quantity": 3.0,
+          "unit_price": 135.0,
+          "total_price": 405.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Gin"
+        },
+        {
+          "product_name": "Blenders Pride 30ml",
+          "quantity": 34.0,
+          "unit_price": 135.0,
+          "total_price": 4590.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Indian Whisky"
+        },
+        {
+          "product_name": "Jamesons Irish 30ml",
+          "quantity": 21.0,
+          "unit_price": 250.0,
+          "total_price": 5250.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Irish"
+        },
+        {
+          "product_name": "Baileys Irish Cream 30ml",
+          "quantity": 3.0,
+          "unit_price": 300.0,
+          "total_price": 900.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Liqueurs"
+        },
+        {
+          "product_name": "Jagermiester 30ml",
+          "quantity": 3.0,
+          "unit_price": 400.0,
+          "total_price": 1200.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Liqueurs"
+        },
+        {
+          "product_name": "Malibu 30ml",
+          "quantity": 5.0,
+          "unit_price": 250.0,
+          "total_price": 1250.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Liqueurs"
+        },
+        {
+          "product_name": "JAMESONE OFFER",
+          "quantity": 1.0,
+          "unit_price": 450.0,
+          "total_price": 450.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Long Drinks"
+        },
+        {
+          "product_name": "Sex On The Beach",
+          "quantity": 1.0,
+          "unit_price": 300.0,
+          "total_price": 300.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Long Drinks"
+        },
+        {
+          "product_name": "100 Pipers 30ml",
+          "quantity": 7.0,
+          "unit_price": 175.0,
+          "total_price": 1225.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Premium Scotch"
+        },
+        {
+          "product_name": "Black & White 30ml",
+          "quantity": 21.0,
+          "unit_price": 175.0,
+          "total_price": 3675.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Premium Scotch"
+        },
+        {
+          "product_name": "Black Dog Centenry 30ml",
+          "quantity": 4.0,
+          "unit_price": 175.0,
+          "total_price": 700.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Premium Scotch"
+        },
+        {
+          "product_name": "Teachers Highland Cream 30ml",
+          "quantity": 2.0,
+          "unit_price": 175.0,
+          "total_price": 350.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Premium Scotch"
+        },
+        {
+          "product_name": "Jacobs Creek Shiraz Cabernet By Bottle",
+          "quantity": 3.0,
+          "unit_price": 1500.0,
+          "total_price": 4500.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Red Wine"
+        },
+        {
+          "product_name": "Jacobs Creek Shiraz Cabernet By Glass",
+          "quantity": 3.0,
+          "unit_price": 325.0,
+          "total_price": 975.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Red Wine"
+        },
+        {
+          "product_name": "Myra Shiraz By Glass",
+          "quantity": 5.0,
+          "unit_price": 250.0,
+          "total_price": 1250.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Red Wine"
+        },
+        {
+          "product_name": "Bacardi Black 30ml",
+          "quantity": 6.0,
+          "unit_price": 135.0,
+          "total_price": 810.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Rum"
+        },
+        {
+          "product_name": "Havana Club 30ml",
+          "quantity": 18.0,
+          "unit_price": 135.0,
+          "total_price": 2430.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Rum"
+        },
+        {
+          "product_name": "Old Monk 30ml",
+          "quantity": 86.0,
+          "unit_price": 135.0,
+          "total_price": 11610.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Rum"
+        },
+        {
+          "product_name": "Jager Bomb",
+          "quantity": 6.0,
+          "unit_price": 500.0,
+          "total_price": 3000.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Shooters"
+        },
+        {
+          "product_name": "Kamakazi",
+          "quantity": 3.0,
+          "unit_price": 200.0,
+          "total_price": 600.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Shooters"
+        },
+        {
+          "product_name": "Watsons Manhattan",
+          "quantity": 1.0,
+          "unit_price": 350.0,
+          "total_price": 350.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Signatures"
+        },
+        {
+          "product_name": "Laphroaig 10 Years 30ml",
+          "quantity": 4.0,
+          "unit_price": 400.0,
+          "total_price": 1600.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Single Malt"
+        },
+        {
+          "product_name": "Laphroaig 10 Years 60ml",
+          "quantity": 1.0,
+          "unit_price": 800.0,
+          "total_price": 800.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Single Malt"
+        },
+        {
+          "product_name": "Camino Gold 30ml",
+          "quantity": 1.0,
+          "unit_price": 250.0,
+          "total_price": 250.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Tequila"
+        },
+        {
+          "product_name": "Desmondji Orange",
+          "quantity": 2.0,
+          "unit_price": 175.0,
+          "total_price": 350.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Tequila"
+        },
+        {
+          "product_name": "Don Angel Blanco 30ml",
+          "quantity": 4.0,
+          "unit_price": 200.0,
+          "total_price": 800.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Tequila"
+        },
+        {
+          "product_name": "Don Angel Oro 30ml",
+          "quantity": 4.0,
+          "unit_price": 200.0,
+          "total_price": 800.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Tequila"
+        },
+        {
+          "product_name": "Absolut Offer",
+          "quantity": 2.0,
+          "unit_price": 350.0,
+          "total_price": 700.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Vodka"
+        },
+        {
+          "product_name": "Absolute 30ml",
+          "quantity": 12.0,
+          "unit_price": 195.0,
+          "total_price": 2340.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Vodka"
+        },
+        {
+          "product_name": "Absolute Kurant 30ml",
+          "quantity": 11.0,
+          "unit_price": 195.0,
+          "total_price": 2145.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Vodka"
+        },
+        {
+          "product_name": "Smirnoff Orange 30ml",
+          "quantity": 2.0,
+          "unit_price": 135.0,
+          "total_price": 270.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Vodka"
+        },
+        {
+          "product_name": "Smirnoff Red 30ml",
+          "quantity": 51.0,
+          "unit_price": 135.0,
+          "total_price": 6885.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Vodka"
+        },
+        {
+          "product_name": "Myra Chenin Blanc By Glass",
+          "quantity": 1.0,
+          "unit_price": 250.0,
+          "total_price": 250.0,
+          "date": "Itemwise Sales Report",
+          "menu": "White Wine"
+        },
+        {
+          "product_name": "Thb Sauvignon Blanc By Glass",
+          "quantity": 1.0,
+          "unit_price": 135.0,
+          "total_price": 135.0,
+          "date": "Itemwise Sales Report",
+          "menu": "White Wine"
+        },
+        {
+          "product_name": "Sangria - Red",
+          "quantity": 6.0,
+          "unit_price": 250.0,
+          "total_price": 1500.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Wine Tales"
+        },
+        {
+          "product_name": "Stirway To Heaven (white Wine)",
+          "quantity": 1.0,
+          "unit_price": 135.0,
+          "total_price": 135.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Wine Tales"
+        }
+      ]
+    },
+    {
+      "category_name": "Others",
+      "total_category_sales": 11430.0,
+      "items": [
+        {
+          "product_name": "Apple Juice",
+          "quantity": 1.0,
+          "unit_price": 90.0,
+          "total_price": 90.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Bottled Water",
+          "quantity": 26.0,
+          "unit_price": 60.0,
+          "total_price": 1560.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Coke",
+          "quantity": 51.0,
+          "unit_price": 60.0,
+          "total_price": 3060.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Cranberry Juice",
+          "quantity": 3.0,
+          "unit_price": 90.0,
+          "total_price": 270.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Diet Coke",
+          "quantity": 8.0,
+          "unit_price": 100.0,
+          "total_price": 800.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Fresh Lime - Soda",
+          "quantity": 13.0,
+          "unit_price": 80.0,
+          "total_price": 1040.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Fresh Lime - Water",
+          "quantity": 1.0,
+          "unit_price": 80.0,
+          "total_price": 80.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Ginger Ale",
+          "quantity": 3.0,
+          "unit_price": 100.0,
+          "total_price": 300.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Mocktails",
+          "quantity": 6.0,
+          "unit_price": 150.0,
+          "total_price": 900.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Orange Juice",
+          "quantity": 1.0,
+          "unit_price": 90.0,
+          "total_price": 90.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Red Bull",
+          "quantity": 6.0,
+          "unit_price": 150.0,
+          "total_price": 900.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Soda",
+          "quantity": 20.0,
+          "unit_price": 60.0,
+          "total_price": 1200.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Sprite",
+          "quantity": 9.0,
+          "unit_price": 60.0,
+          "total_price": 540.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        },
+        {
+          "product_name": "Tonic",
+          "quantity": 6.0,
+          "unit_price": 100.0,
+          "total_price": 600.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Non Alcholic / Water"
+        }
+      ]
+    },
+    {
+      "category_name": "Tobacco",
+      "total_category_sales": 6150.0,
+      "items": [
+        {
+          "product_name": "Classic Mild 10nos",
+          "quantity": 12.0,
+          "unit_price": 150.0,
+          "total_price": 1800.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Smokes"
+        },
+        {
+          "product_name": "Gold Flaks 10nos",
+          "quantity": 10.0,
+          "unit_price": 150.0,
+          "total_price": 1500.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Smokes"
+        },
+        {
+          "product_name": "Gold Flaks Lights 10nos",
+          "quantity": 14.0,
+          "unit_price": 150.0,
+          "total_price": 2100.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Smokes"
+        },
+        {
+          "product_name": "Ultra Milds 10nos",
+          "quantity": 5.0,
+          "unit_price": 150.0,
+          "total_price": 750.0,
+          "date": "Itemwise Sales Report",
+          "menu": "Smokes"
+        }
+      ]
+    }
+  ]
+}

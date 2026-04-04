@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b486839-5c93-438d-b507-953e8984c314" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.cursor/skills/algorithms-expert/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.cursor/skills/algorithms-expert/reference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.cursor/skills/data-structures/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.cursor/skills/data-structures/reference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.cursor/skills/engineering-excellence/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.cursor/skills/engineering-excellence/reference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.cursor/skills/mathematical-programmer/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.cursor/skills/mathematical-programmer/reference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.cursor/skills/motion-animation-storytelling-designer/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.cursor/skills/motion-animation-storytelling-designer/reference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nc.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pdf_to_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reality.code-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sales.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sales.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spirix_ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/app-build-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/build-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/.tsbuildinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/images/7lpLPR3I2-8sGz2TgMnl6xy5aq8+eO93x5Xz1OrNfeQ=/60.1775154619049.OY1fupPrvL5xrNnaGSAvWOn27BQK-VYRPyW16+73oE0=.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/images/h6hSnyyvCTCID2WotuNDcEhmGXGrRBNszxWGOvhCxXw=/60.1775298613289.iabDIunCZZFSBXpirAgwHBO7dTtQYqBHf2GGUxDgY+g=.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/0.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/1.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/2.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/3.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/4.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/5.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/6.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/7.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/8.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/9.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/index.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-development/index.pack.gz.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-production/0.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-production/1.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-production/2.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-production/index.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/client-production/index.pack.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/edge-server-production/0.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/edge-server-production/index.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/0.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/1.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/10.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/2.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/3.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/4.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/5.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/6.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/7.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/8.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/9.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/index.pack.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-development/index.pack.gz.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-production/0.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-production/1.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-production/index.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/cache/webpack/server-production/index.pack.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/react-loadable-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/app-paths-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/app/book-demo/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/app/book-demo/page_client-reference-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/app/how-it-works/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/app/how-it-works/page_client-reference-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/app/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/app/page_client-reference-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/app/product/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/app/product/page_client-reference-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/interception-route-rewrite-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/middleware-build-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/middleware-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/middleware-react-loadable-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/next-font-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/next-font-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/pages-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/server-reference-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/server-reference-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/vendor-chunks/@radix-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/vendor-chunks/@swc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/vendor-chunks/class-variance-authority.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/vendor-chunks/clsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/vendor-chunks/framer-motion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/vendor-chunks/lucide-react.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/vendor-chunks/next.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/vendor-chunks/react-hook-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/vendor-chunks/simplex-noise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/vendor-chunks/tailwind-merge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/server/webpack-runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/chunks/_app-pages-browser_components_charts_InventoryVarianceCharts_tsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/chunks/_app-pages-browser_components_charts_VarianceChart_tsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/chunks/app-pages-internals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/chunks/app/book-demo/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/chunks/app/how-it-works/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/chunks/app/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/chunks/app/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/chunks/app/product/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/chunks/main-app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/chunks/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/chunks/webpack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/css/app/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/development/_buildManifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/development/_ssgManifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/media/636a5ac981f94f8b-s.p.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/media/6fe53d21e6e7ebd8-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/media/7b0b24f36b1a6d0b-s.p.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/media/8ebc6e9dde468c4a-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/media/98848575513c9742-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/media/9e7b0a821b9dfcb4-s.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/webpack/39e9a485e27a5e47.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/webpack/43e5f380f073a564.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/webpack/633457081244afec._.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/webpack/app/layout.d6e58114053ac6a2.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/webpack/d6e58114053ac6a2.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/webpack/da844d25d9e00867.webpack.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/webpack/webpack.39e9a485e27a5e47.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/webpack/webpack.43e5f380f073a564.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/webpack/webpack.d6e58114053ac6a2.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/static/webpack/webpack.da844d25d9e00867.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/trace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/types/app/book-demo/page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/types/app/how-it-works/page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/types/app/layout.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/types/app/page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/types/app/product/page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/.next/types/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/app/analytics/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/app/api/demo/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/app/book-demo/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/app/features/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/app/how-it-works/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/app/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/app/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/app/product/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/BulletGraph.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/InventoryVarianceCharts.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/RealTimeTicker.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/VarianceAnalyticsChart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/VarianceBreakdownChart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/VarianceBreakdownSvg.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/VarianceChart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/VarianceChartControls.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/VarianceChartSvg.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/VarianceChartSvgLayers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/VarianceChartTooltip.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/VarianceKPICards.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/charts/WaterfallChart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/forms/BookDemoForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/AnalyticsDemo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/BottleSilhouette.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/BrandTextFloat.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/CtaSection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/DataWaveLiquid.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/FeatureHighlights.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/Hero.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/HeroActions.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/HeroBackground.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/HeroPhysics.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/MCPAISection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/Problem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/ProductViz.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/home/Solution.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/how-it-works/FlowSteps.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/layout/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/layout/FooterFounder.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/layout/Nav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/layout/NavLink.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/layout/PageTransition.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/product/AIHelpCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/product/DashboardHighlight.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/three/BottleChartScene.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/three/HeroScene.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/three/useBottleChartScene.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/ui/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/ui/card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/ui/input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/ui/label.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/components/waves/FluidWaveCanvas.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/hooks/useMouseProximity.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/hooks/useSmoothedNorm.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/analyticsVarianceConfig.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/animationProfile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/motionPresets.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/physics.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/settings.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/supabase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/varianceBreakdownHelpers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/varianceBreakdownLayout.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/varianceChartData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/varianceChartGeometry.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/varianceChartInsight.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/varianceChartLabels.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/varianceVisualizationData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/waveParams.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/lib/whatsappDemo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/next-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/public/founders/vinod-s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/tailwind.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/tsconfig.tsbuildinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ux/vercel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../~$sales.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3AzHZhcq55oZNIc7U7oQiYtdAf9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.auth.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database_session_provider.executor&quot;: &quot;Run&quot;,
+    &quot;Python.liqours_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.runner.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/office/code/spirix/be&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\office\code\spirix\be\transormer\sales\lucid\pipeline" />
+      <recent name="D:\office\code\spirix\be\transormer\sales\lucid" />
+      <recent name="D:\office\code\spirix\be" />
+      <recent name="D:\office\code\spirix\be\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.runner">
+    <configuration name="auth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="be" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/routes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/routes/auth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="be" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/transormer/sales/lucid/pipeline" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transormer/sales/lucid/pipeline/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="be" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="be" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="be" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runner" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.auth" />
+        <item itemvalue="Python.settings" />
+        <item itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b486839-5c93-438d-b507-953e8984c314" name="Changes" comment="" />
+      <created>1773588535947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773588535947</updated>
+      <workItem from="1773588537573" duration="4994000" />
+      <workItem from="1773636783562" duration="3378000" />
+      <workItem from="1773907458882" duration="6235000" />
+      <workItem from="1773931748192" duration="15000" />
+      <workItem from="1774193169158" duration="5227000" />
+      <workItem from="1774241656305" duration="1560000" />
+      <workItem from="1774280435676" duration="5573000" />
+      <workItem from="1774329192318" duration="728000" />
+      <workItem from="1774356577700" duration="981000" />
+      <workItem from="1774457971484" duration="706000" />
+      <workItem from="1774541677728" duration="660000" />
+      <workItem from="1774542859336" duration="1653000" />
+      <workItem from="1774586356579" duration="72000" />
+      <workItem from="1774601726985" duration="5012000" />
+      <workItem from="1774616210186" duration="26000" />
+      <workItem from="1775131992040" duration="340000" />
+      <workItem from="1775155143155" duration="2327000" />
+      <workItem from="1775192516119" duration="125000" />
+      <workItem from="1775197269455" duration="151000" />
+      <workItem from="1775298751680" duration="3516000" />
+      <workItem from="1775321955615" duration="2205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/services/user_auth_service.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/routes/auth.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/be$runner.coverage" NAME="runner Coverage Results" MODIFIED="1775310104201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/be$auth.coverage" NAME="auth Coverage Results" MODIFIED="1775132074981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/routes" />
+    <SUITE FILE_PATH="coverage/be$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1774196840308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transormer/sales/lucid/pipeline" />
+    <SUITE FILE_PATH="coverage/be$main.coverage" NAME="main Coverage Results" MODIFIED="1775309290205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/be$database_session_provider.coverage" NAME="database_session_provider Coverage Results" MODIFIED="1773638945400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/config" />
+    <SUITE FILE_PATH="coverage/be$liqours_list.coverage" NAME="liqours_list Coverage Results" MODIFIED="1774288240534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/db" />
+    <SUITE FILE_PATH="coverage/be$settings.coverage" NAME="settings Coverage Results" MODIFIED="1774601946978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+  </component>
+</project>

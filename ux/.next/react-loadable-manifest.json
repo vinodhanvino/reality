@@ -1,0 +1,14 @@
+{
+  "components\\home\\AnalyticsDemo.tsx -> @/components/charts/InventoryVarianceCharts": {
+    "id": "components\\home\\AnalyticsDemo.tsx -> @/components/charts/InventoryVarianceCharts",
+    "files": [
+      "static/chunks/_app-pages-browser_components_charts_InventoryVarianceCharts_tsx.js"
+    ]
+  },
+  "components\\home\\ProductViz.tsx -> @/components/charts/VarianceChart": {
+    "id": "components\\home\\ProductViz.tsx -> @/components/charts/VarianceChart",
+    "files": [
+      "static/chunks/_app-pages-browser_components_charts_VarianceChart_tsx.js"
+    ]
+  }
+}
