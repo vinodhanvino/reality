@@ -26,9 +26,9 @@ export function FooterFounder() {
               </div>
             ) : null}
             <div className="min-w-0 flex-1 pt-0.5">
-              <p className="font-display text-lg font-semibold leading-snug text-white">{f.name}</p>
+              <p className="type-step-title leading-snug">{f.name}</p>
               <p className="mt-1 text-sm font-medium text-accent/90">{f.role}</p>
-              <p className="mt-3 text-sm leading-relaxed text-zinc-400">{footer.founderBio}</p>
+              <p className="type-body-sm mt-3">{footer.founderBio}</p>
             </div>
           </div>
         ))}

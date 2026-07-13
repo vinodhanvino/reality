@@ -20,7 +20,7 @@ export function MCPAISection() {
           {mcpAI.label}
         </motion.p>
         <motion.h2
-          className="font-display text-3xl sm:text-4xl font-bold text-center text-white mb-4"
+          className="type-section-title mb-4 text-center"
           initial={{ opacity: 0, y: 16 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={viewportOnce}
@@ -29,7 +29,7 @@ export function MCPAISection() {
           {mcpAI.headline}
         </motion.h2>
         <motion.p
-          className="text-center text-zinc-400 text-lg mb-10 max-w-2xl mx-auto"
+          className="type-body mb-10 max-w-2xl text-center mx-auto"
           initial={{ opacity: 0, y: 16 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={viewportOnce}
@@ -57,7 +57,7 @@ export function MCPAISection() {
               className="flex items-start gap-3 rounded-xl border border-white/[0.07] bg-gradient-to-r from-white/[0.04] to-transparent px-5 py-4 transition-transform hover:-translate-y-0.5"
             >
               <MessageCircle className="mt-0.5 shrink-0 text-accent" size={20} />
-              <span className="text-white/90 text-sm sm:text-base">{point}</span>
+              <span className="type-body-sm text-white/90 sm:text-base">{point}</span>
             </motion.li>
           ))}
         </motion.ul>

@@ -12,14 +12,14 @@ export default function FeaturesPage() {
   return (
     <div className="min-h-screen pt-24 pb-16 px-4">
       <div className="mx-auto max-w-4xl">
-        <h1 className="text-4xl font-bold text-white text-center mb-12">
+        <h1 className="type-page-title mb-12 text-center">
           Features
         </h1>
         <ul className="grid gap-4 sm:grid-cols-2">
           {features.map((f) => (
             <li key={f}>
               <Card>
-                <CardContent className="pt-6">{f}</CardContent>
+                <CardContent className="type-body-sm pt-6 text-zinc-300">{f}</CardContent>
               </Card>
             </li>
           ))}

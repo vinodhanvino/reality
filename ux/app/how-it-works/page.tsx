@@ -14,17 +14,17 @@ export default function HowItWorksPage() {
     <div className="min-h-screen pt-24 pb-20 px-4">
       <div className="mx-auto max-w-2xl">
         <p className="section-label text-center mb-3">{howItWorks.title}</p>
-        <h1 className="font-display text-4xl sm:text-5xl font-bold text-white text-center mb-6">
+        <h1 className="type-page-title mb-6 text-center">
           {howItWorks.subtitle}
         </h1>
-        <p className="text-zinc-400 text-lg text-center mb-12">
+        <p className="type-body mb-12 text-center">
           {howItWorks.intro}
         </p>
 
         <FlowSteps steps={howItWorks.steps} />
 
         <div className="mt-10 rounded-xl border border-white/[0.08] bg-white/[0.02] p-5">
-          <p className="text-white/80 text-sm leading-relaxed">
+          <p className="type-body-sm text-zinc-300">
             {howItWorks.outcomeNote}
           </p>
         </div>

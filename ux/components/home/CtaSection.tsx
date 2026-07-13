@@ -17,7 +17,7 @@ export function CtaSection() {
         transition={{ duration: 0.55 }}
       >
         <div className="rounded-[calc(1.5rem-1px)] bg-surface/95 px-10 py-14 text-center backdrop-blur-sm sm:px-16 sm:py-16">
-          <h2 className="mb-8 font-display text-3xl font-bold text-white sm:text-4xl">{ctaSection.headline}</h2>
+          <h2 className="type-section-title mb-8">{ctaSection.headline}</h2>
           <Button asChild size="lg" variant="accent" className="rounded-full px-10 font-semibold shadow-lg glow-accent">
             <Link href="/book-demo">{ctaSection.button}</Link>
           </Button>

@@ -17,10 +17,10 @@ export function Solution() {
         >
           <div className="pointer-events-none absolute -right-16 -top-16 h-48 w-48 rounded-full bg-accent/10 blur-3xl" />
           <p className="section-label mb-4 text-accent/90">The solution</p>
-          <h2 className="mb-6 font-display text-2xl font-bold text-white sm:text-3xl">
+          <h2 className="type-section-title-sm mb-6">
             One platform. Full visibility.
           </h2>
-          <p className="relative text-lg leading-relaxed text-zinc-400">{solutionCopy}</p>
+          <p className="type-body relative">{solutionCopy}</p>
         </motion.div>
       </div>
     </section>

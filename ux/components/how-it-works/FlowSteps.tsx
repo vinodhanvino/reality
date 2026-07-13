@@ -24,8 +24,8 @@ export function FlowSteps({ steps }: Props) {
             )}
           </div>
           <div className="rounded-xl border border-white/[0.08] bg-white/[0.02] p-5 flex-1">
-            <h3 className="font-display font-semibold text-white mb-2">{step.label}</h3>
-            <p className="text-zinc-400 text-sm leading-relaxed">{step.description}</p>
+            <h3 className="type-step-title mb-2">{step.label}</h3>
+            <p className="type-body-sm">{step.description}</p>
           </div>
         </div>
       ))}

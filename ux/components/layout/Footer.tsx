@@ -8,16 +8,16 @@ export function Footer() {
       <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:px-8">
         <div className="grid gap-12 lg:grid-cols-12 lg:gap-10">
           <div className="lg:col-span-5">
-            <Link href="/" className="inline-block font-display text-xl font-semibold tracking-tight text-white transition-colors hover:text-accent">
+            <Link href="/" className="type-brand inline-block transition-colors hover:text-accent">
               {site.name}
             </Link>
-            <p className="mt-3 max-w-sm text-sm leading-relaxed text-zinc-500">{site.tagline}</p>
+            <p className="type-body-sm mt-3 max-w-sm">{site.tagline}</p>
             <div className="mt-8 grid grid-cols-2 gap-x-8 gap-y-3 sm:grid-cols-3">
               {navLinks.map((link) => (
                 <Link
                   key={link.href}
                   href={link.href}
-                  className="text-sm text-zinc-500 transition-colors hover:text-white"
+                  className="type-nav-link"
                 >
                   {link.label}
                 </Link>

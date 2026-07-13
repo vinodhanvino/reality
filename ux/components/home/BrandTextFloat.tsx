@@ -6,7 +6,7 @@ import { site } from "@/lib/settings";
 export function BrandTextFloat() {
   return (
     <motion.span
-      className="inline-block font-display font-bold tracking-tight text-white/90 gpu-layer"
+      className="type-hero-kicker inline-block gpu-layer"
       animate={{
         y: [0, -5, 0],
       }}

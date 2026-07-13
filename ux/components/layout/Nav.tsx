@@ -21,7 +21,7 @@ export function Nav() {
       <nav className="mx-auto flex h-[4.25rem] max-w-6xl items-center justify-between px-4 sm:px-6 lg:px-8">
         <Link
           href="/"
-          className="font-display text-lg font-semibold tracking-tight text-white transition-colors hover:text-accent"
+          className="type-brand transition-colors hover:text-accent"
         >
           {site.name}
         </Link>
@@ -60,7 +60,7 @@ export function Nav() {
                   key={link.href}
                   href={link.href}
                   prefetch
-                  className="py-3 text-zinc-400 transition-colors hover:text-white"
+                  className="type-nav-link py-3"
                   onClick={close}
                 >
                   {link.label}

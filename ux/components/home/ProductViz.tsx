@@ -27,7 +27,7 @@ export function ProductViz() {
           Product
         </motion.p>
         <motion.h2
-          className="font-display text-3xl sm:text-4xl font-bold text-center text-white mb-4"
+          className="type-section-title mb-4 text-center"
           initial={{ opacity: 0, y: 16 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={viewportOnce}
@@ -36,7 +36,7 @@ export function ProductViz() {
           Analytics at a glance
         </motion.h2>
         <motion.p
-          className="text-center text-zinc-400 mb-14 max-w-xl mx-auto"
+          className="type-body mb-14 max-w-xl text-center mx-auto"
           initial={{ opacity: 0, y: 16 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={viewportOnce}

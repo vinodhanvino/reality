@@ -15,10 +15,10 @@ export default function ProductPage() {
     <div className="min-h-screen pt-24 pb-20 px-4">
       <div className="mx-auto max-w-3xl">
         <p className="section-label text-center mb-3">{productPage.title}</p>
-        <h1 className="font-display text-4xl sm:text-5xl font-bold text-white text-center mb-6">
+        <h1 className="type-page-title mb-6 text-center">
           {productPage.subtitle}
         </h1>
-        <p className="text-zinc-400 text-lg text-center mb-8 max-w-2xl mx-auto">
+        <p className="type-body mb-8 max-w-2xl text-center mx-auto">
           {productPage.intro}
         </p>
 

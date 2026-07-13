@@ -27,7 +27,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.55, ease: easeOut }}
         >
-          <span className="text-2xl sm:text-3xl">
+          <span>
             <BrandTextFloat />
           </span>
         </motion.div>
@@ -52,7 +52,7 @@ export function Hero() {
           <span className="text-gradient-hero">{hero.headlineAccent}</span>
         </motion.h1>
         <motion.p
-          className="mx-auto mb-12 max-w-2xl text-base leading-relaxed text-zinc-400 sm:text-lg"
+          className="type-body mx-auto mb-12 max-w-2xl text-center"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.18, ease: easeOut }}

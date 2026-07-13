@@ -17,7 +17,7 @@ export function FeatureHighlights() {
           Features
         </motion.p>
         <motion.h2
-          className="mb-14 text-center font-display text-3xl font-bold text-white sm:text-4xl"
+          className="type-section-title mb-14 text-center"
           initial={{ opacity: 0, y: 16 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={viewportOnce}
@@ -40,7 +40,7 @@ export function FeatureHighlights() {
               className="group rounded-xl border border-white/[0.07] bg-gradient-to-b from-white/[0.04] to-transparent p-6 transition-shadow hover:border-primary/30 hover:shadow-lg"
             >
               <span className="font-mono text-xs font-medium text-accent/90">{String(i + 1).padStart(2, "0")}</span>
-              <p className="mt-3 font-medium text-white">{feature}</p>
+              <p className="type-lead mt-3">{feature}</p>
             </motion.li>
           ))}
         </motion.ul>

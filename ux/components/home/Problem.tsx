@@ -17,7 +17,7 @@ export function Problem() {
           The problem
         </motion.p>
         <motion.h2
-          className="font-display text-3xl sm:text-4xl font-bold text-center text-white mb-4"
+          className="type-section-title mb-4 text-center"
           initial={{ opacity: 0, y: 16 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={viewportOnce}
@@ -26,7 +26,7 @@ export function Problem() {
           Bars lose revenue every day
         </motion.h2>
         <motion.p
-          className="text-center text-zinc-400 mb-14"
+          className="type-body-sm mb-14 text-center"
           initial={{ opacity: 0, y: 16 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={viewportOnce}
@@ -46,7 +46,7 @@ export function Problem() {
               key={point}
               variants={staggerItem}
               whileHover={{ y: -3, transition: { type: "spring", stiffness: 400, damping: 24 } }}
-              className="rounded-xl border border-white/[0.07] bg-gradient-to-br from-white/[0.04] to-transparent px-5 py-4 font-medium text-white shadow-sm transition-shadow hover:border-accent/25 hover:shadow-md"
+              className="type-lead rounded-xl border border-white/[0.07] bg-gradient-to-br from-white/[0.04] to-transparent px-5 py-4 shadow-sm transition-shadow hover:border-accent/25 hover:shadow-md"
             >
               {point}
             </motion.li>

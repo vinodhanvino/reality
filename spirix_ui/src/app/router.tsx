@@ -1,56 +1,50 @@
-import { lazy, Suspense } from "react";
+import { lazy, Suspense, type ReactNode } from "react";
 import { createBrowserRouter } from "react-router-dom";
 
 import { ErrorBoundary } from "@/components/common/ErrorBoundary";
-import { PageLoader } from "@/components/common/Loader";
 import { ProtectedRoute } from "@/components/common/ProtectedRoute";
-import { DashboardLayout } from "@/layouts/DashboardLayout";
+import { RouteFallback } from "@/components/common/RouteFallback";
 
-const DashboardPage = lazy(
-  () => import("@/features/dashboard/pages/DashboardPage"),
-);
-const UploadsPage = lazy(() => import("@/features/dashboard/pages/UploadsPage"));
-const LoginPage = lazy(() => import("@/features/auth/pages/LoginPage"));
+const SignInPage = lazy(() => import("@/features/auth/pages/SignInPage"));
+const HomePage = lazy(() => import("@/app/pages/HomePage"));
+const WorkspaceDashboardPage = lazy(() => import("@/features/projects/pages/WorkspaceDashboardPage"));
+const OutletPage = lazy(() => import("@/features/outlets/pages/OutletPage"));
+
+function withRouteShell(node: ReactNode) {
+  return (
+    <ErrorBoundary>
+      <Suspense fallback={<RouteFallback />}>{node}</Suspense>
+    </ErrorBoundary>
+  );
+}
 
 export const router = createBrowserRouter([
   {
-    path: "/login",
-    element: (
-      <ErrorBoundary>
-        <Suspense fallback={<PageLoader />}>
-          <LoginPage />
-        </Suspense>
-      </ErrorBoundary>
-    ),
+    path: "/signin",
+    element: withRouteShell(<SignInPage />),
   },
   {
     path: "/",
-    element: (
+    element: withRouteShell(
       <ProtectedRoute>
-        <ErrorBoundary>
-          <DashboardLayout />
-        </ErrorBoundary>
-      </ProtectedRoute>
+        <HomePage />
+      </ProtectedRoute>,
     ),
-    handle: { crumb: "Dashboard" },
-    children: [
-      {
-        index: true,
-        element: (
-          <Suspense fallback={<PageLoader />}>
-            <DashboardPage />
-          </Suspense>
-        ),
-      },
-      {
-        path: "uploads",
-        handle: { crumb: "Uploads" },
-        element: (
-          <Suspense fallback={<PageLoader />}>
-            <UploadsPage />
-          </Suspense>
-        ),
-      },
-    ],
+  },
+  {
+    path: "/workspace/:workspaceId/dashboard",
+    element: withRouteShell(
+      <ProtectedRoute>
+        <WorkspaceDashboardPage />
+      </ProtectedRoute>,
+    ),
+  },
+  {
+    path: "/workspace/:workspaceId/outlet/:outletId",
+    element: withRouteShell(
+      <ProtectedRoute>
+        <OutletPage />
+      </ProtectedRoute>,
+    ),
   },
 ]);

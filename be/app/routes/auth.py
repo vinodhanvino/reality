@@ -1,38 +1,40 @@
-from fastapi import APIRouter, HTTPException, status
-from pydantic import BaseModel, Field
+from fastapi import APIRouter, Depends, status
+from fastapi.responses import JSONResponse
+from sqlalchemy.ext.asyncio import AsyncSession
 
-from app.services.user_auth_service import authenticate_user, create_user
+from app.routes.deps import get_db_read, get_db_write
+from app.schemas.signin import SignInRequest, SignInSuccess
+from app.schemas.signup import SignupRequest, SignupResponse
+from app.service.signin import sign_in
+from app.service.signup import SignupConflictError, register_user
 
-router = APIRouter(prefix="/auth", tags=["auth"])
-
-
-class SignInRequest(BaseModel):
-    email: str = Field(min_length=5, max_length=255)
-    password: str = Field(min_length=8, max_length=255)
-
-
-class SignUpRequest(BaseModel):
-    user_name: str = Field(min_length=2, max_length=255)
-    email: str = Field(min_length=5, max_length=255)
-    password: str = Field(min_length=8, max_length=255)
+router = APIRouter(tags=['auth'])
 
 
-@router.post("/sign-up", status_code=status.HTTP_201_CREATED)
-def sign_up(payload: SignUpRequest) -> dict:
+@router.post('/signup', status_code=status.HTTP_201_CREATED)
+async def post_signup(
+    body: SignupRequest,
+    db: AsyncSession = Depends(get_db_write),
+):
     try:
-        result = create_user(
-            user_name=payload.user_name,
-            email=payload.email,
-            password=payload.password,
+        user = await register_user(db, body)
+    except SignupConflictError as e:
+        return JSONResponse(
+            status_code=409,
+            content={'error': e.message},
         )
-        return result
-    except ValueError as exc:
-        raise HTTPException(status_code=409, detail=str(exc)) from exc
+    return SignupResponse(user_id=user.id)
 
 
-@router.post("/sign-in", status_code=status.HTTP_200_OK)
-def sign_in(payload: SignInRequest) -> dict:
-    result = authenticate_user(email=payload.email, password=payload.password)
-    if not result:
-        raise HTTPException(status_code=401, detail="Invalid email or password")
-    return result
+@router.post('/signin')
+async def post_signin(
+    body: SignInRequest,
+    db: AsyncSession = Depends(get_db_read),
+):
+    out = await sign_in(db, body.username, body.password)
+    if out is None:
+        return JSONResponse(
+            status_code=401,
+            content={'error': 'Invalid username or password'},
+        )
+    return SignInSuccess(**out)

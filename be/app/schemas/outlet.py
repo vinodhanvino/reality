@@ -1,35 +1,57 @@
-from pydantic import BaseModel, Field
+from datetime import datetime
+from typing import Any
 
-from app.settings import settings
+from pydantic import BaseModel, ConfigDict, Field, field_validator
+
+from app.config.config import settings
 
 
 class OutletCreate(BaseModel):
-    outlet_name: str = Field(min_length=1, max_length=255)
-    outlet_description: str = Field(min_length=1, max_length=1024)
-    created_by: int | None = None
-    more: dict = Field(default_factory=dict)
-
-
-class OutletGet(BaseModel):
-    id: int = Field(ge=1)
-
-
-class OutletList(BaseModel):
-    skip: int = Field(default=0, ge=0)
-    limit: int = Field(
-        default=settings.OUTLET_LIST_DEFAULT_LIMIT,
-        ge=1,
-        le=settings.OUTLET_LIST_MAX_LIMIT,
+    outlet_name: str = Field(min_length=1, max_length=settings.OUTLET_NAME_MAX_LENGTH)
+    description: str | None = Field(
+        default=None, max_length=settings.OUTLET_DESCRIPTION_MAX_LENGTH
     )
-    include_archived: bool = False
+    more: dict[str, Any] = Field(default_factory=dict)
+
+    @field_validator("outlet_name", mode="after")
+    @classmethod
+    def strip_name(cls, v: str) -> str:
+        s = v.strip()
+        if not s:
+            raise ValueError("outlet_name cannot be blank")
+        return s
 
 
 class OutletUpdate(BaseModel):
-    id: int = Field(ge=1)
-    outlet_name: str | None = Field(default=None, min_length=1, max_length=255)
-    outlet_description: str | None = Field(default=None, min_length=1, max_length=1024)
-    more: dict | None = None
+    outlet_name: str | None = Field(
+        default=None, max_length=settings.OUTLET_NAME_MAX_LENGTH
+    )
+    description: str | None = Field(
+        default=None, max_length=settings.OUTLET_DESCRIPTION_MAX_LENGTH
+    )
+    more: dict[str, Any] | None = None
+    archived: bool | None = None
+
+    @field_validator("outlet_name", mode="after")
+    @classmethod
+    def strip_name(cls, v: str | None) -> str | None:
+        if v is None:
+            return None
+        s = v.strip()
+        if not s:
+            raise ValueError("outlet_name cannot be blank")
+        return s
 
 
-class OutletArchive(BaseModel):
-    id: int = Field(ge=1)
+class OutletOut(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
+    id: int
+    outlet_name: str
+    description: str | None
+    project_id: int
+    created_by: int
+    created_at: datetime
+    modified_at: datetime
+    archived: bool
+    more: dict[str, Any]

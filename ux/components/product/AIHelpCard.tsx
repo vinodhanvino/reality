@@ -12,10 +12,10 @@ export function AIHelpCard({ title, description, index }: Props) {
       <span className="text-[#2BC0D3] font-mono text-sm">
         {String(index).padStart(2, "0")}
       </span>
-      <h3 className="font-display text-xl font-semibold text-white mt-2 mb-3">
+      <h3 className="type-card-title mt-2 mb-3">
         {title}
       </h3>
-      <p className="text-zinc-400 leading-relaxed">{description}</p>
+      <p className="type-body-sm">{description}</p>
     </div>
   );
 }

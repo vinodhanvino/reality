@@ -10,7 +10,7 @@ export function NavLink({ href, label, onNavigate }: Props) {
       href={href}
       prefetch
       onClick={onNavigate}
-      className="group relative py-1 text-sm text-zinc-400 transition-colors hover:text-white"
+      className="type-nav-link group relative py-1"
     >
       <span>{label}</span>
       <span

@@ -60,6 +60,48 @@ body::after {
   @apply text-[11px] font-semibold uppercase tracking-[0.28em] text-zinc-500;
 }
 
+@layer components {
+  .type-brand {
+    @apply font-display text-lg font-semibold tracking-tight text-white;
+  }
+  .type-hero-kicker {
+    @apply font-display text-xl font-semibold tracking-tight text-white/90 sm:text-2xl;
+  }
+  .type-hero-title {
+    @apply font-display text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl xl:text-7xl;
+  }
+  .type-page-title {
+    @apply font-display text-4xl font-bold tracking-tight text-white sm:text-5xl;
+  }
+  .type-page-title-md {
+    @apply font-display text-3xl font-bold tracking-tight text-white sm:text-4xl;
+  }
+  .type-section-title {
+    @apply font-display text-3xl font-bold tracking-tight text-white sm:text-4xl;
+  }
+  .type-section-title-sm {
+    @apply font-display text-2xl font-bold tracking-tight text-white sm:text-3xl;
+  }
+  .type-card-title {
+    @apply font-display text-xl font-semibold tracking-tight text-white;
+  }
+  .type-step-title {
+    @apply font-display text-lg font-semibold tracking-tight text-white;
+  }
+  .type-body {
+    @apply font-sans text-base leading-relaxed text-zinc-400 sm:text-lg;
+  }
+  .type-body-sm {
+    @apply font-sans text-sm leading-relaxed text-zinc-500;
+  }
+  .type-nav-link {
+    @apply font-sans text-sm font-medium text-zinc-400 transition-colors hover:text-white;
+  }
+  .type-lead {
+    @apply font-sans text-base font-medium leading-snug text-white;
+  }
+}
+
 .hero-gradient {
   background: linear-gradient(180deg, transparent 0%, var(--background) 92%);
 }
